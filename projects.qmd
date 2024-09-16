@@ -1,0 +1,6 @@
+---
+title: "Projects"
+format: html
+---
+
+I'll add projects here as the class unfolds

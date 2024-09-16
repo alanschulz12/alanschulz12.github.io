@@ -1,0 +1,16 @@
+---
+title: "Bio"
+format: html
+---
+
+
+
+![](profilejsi.jpg){width="412"}
+
+I'm Alan, a UWC scholar from Colombia, currently pursuing an undergraduate degree in economics with minors in statistics and sociology at Macalester College. My academic and professional journey has taken me across Colombia, Canada, and the United States, enriching my perspective and fueling my passion for applying data science to address complex socioeconomic challenges.
+
+In my studies, I've developed strong skills in data analysis using tools like R, Python, and Stata, focusing on projects that intersect economic policy and social justice. My aim is to leverage data science to effect positive change and improve community well-being.
+
+Last semester, I interned at the Minnesota Council on Latino Affairs, where I analyzed data to inform health policy decisions. This role involved synthesizing complex datasets to provide evidence-based recommendations that aim to enhance healthcare services for underrepresented populations.
+
+Fluent in Spanish, English, and German, and currently enhancing my proficiency in Portuguese, I am committed to utilizing my multilingual and analytical skills to contribute to health policy using qualitative and quantitative data.
