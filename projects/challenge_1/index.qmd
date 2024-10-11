@@ -1,0 +1,9 @@
+---
+title: "Replicating a NY times visualization using GGPLOT2"
+format: html
+editor: visual
+---
+
+For this project, I was given a dataset containing weather data for San Francisco in 2011, and was asked to replicate a New York times visualization using GGPLOT2 in R studio. Below is my final output:
+
+![](Screenshot%202024-09-16%20at%203.24.25%20PM.jpg)
